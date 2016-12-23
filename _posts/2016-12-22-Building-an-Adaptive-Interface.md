@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Building an Adaptive Interface
-tags: View Controller Programming Guide for iOS
-- app
+tags: 
+- View Controller Programming Guide for iOS
 ---
 
 ## 构建自适应界面

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The Adaptive Model
-tags: View Controller Programming Guide for iOS
-- app
-
+tags: 
+- View Controller Programming Guide for iOS
 ---
 
 ## 自适应模型
