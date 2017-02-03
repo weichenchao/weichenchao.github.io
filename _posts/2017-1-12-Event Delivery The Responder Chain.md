@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Event Delivery: The Responder Chain
+title: Event Delivery The Responder Chain
 tags: 
 - Event Handling Guide for iOS(三)
 ---
