@@ -4,7 +4,6 @@ title: UISplitViewController
 tags: 
 - View Controller Catalog for iOS
 ---
-# UISplitViewController
 
 `UISplitViewController`类是提供了一个主 - 从界面的容器视图控制器。在主 - 从界面中，主视图控制器的更改驱动从视图控制器（详细信息）进行更改。两个视图控制器可以被布置为三种情况：并排，每次只有一个是可见的，或者一个部分被覆盖，一个显示。在iOS中8及更高版本，可以在所有iOS设备使用`UISplitViewController`; 在iOS的以前版本中，该类仅在iPad上可用。
 

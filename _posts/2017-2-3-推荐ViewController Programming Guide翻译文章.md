@@ -1,4 +1,9 @@
-推荐ViewController Programming Guide翻译文章
+---
+layout: post
+title: 推荐ViewController Programming Guide翻译文章
+tags: 
+- ViewController Programming Guide
+---
 
 [ViewController Programming Guide笔记（一）](https://chengwey.com/viewcontroller-programming-guide-bi-ji/)
 
