@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ReactiveCocoa常用操作
+title: ReactiveCocoa常用操作 - ReactiveCocoa（二）
 tags: 
 - ReactiveCocoa
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: flattenMap和map
+title: 详解FlattenMap和Map - ReactiveCocoa（三）
 tags: 
 - ReactiveCocoa
 
