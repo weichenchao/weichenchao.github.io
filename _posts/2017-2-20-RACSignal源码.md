@@ -57,6 +57,8 @@ tags:
 
 不同的是：真正的对应的sendCompleted，sendError闭包被执行，还会对销毁者进行销毁
 
+参考：[ReactiveCocoa 中 RACSignal 是如何发送信号的](http://www.ituring.com.cn/article/273632)
+
  ![D7F7EFD4-A4FA-40D9-BE11-6FBE2111159A](/Users/m4399/Library/Containers/com.tencent.eimmac/Data/Library/Application Support/QQ/Users/2853316748/QQ/Temp.db/D7F7EFD4-A4FA-40D9-BE11-6FBE2111159A.png)
 
 ## 2、bind
